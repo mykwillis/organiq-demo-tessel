@@ -1,0 +1,14 @@
+{
+  "name": "organiq-demo-tessel-scan",
+  "version": "0.0.1",
+  "description": "Look for connected Tessel devices",
+  "main": "scan.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Myk Willis <myk@organiq.io> (http://www.organiq.io/)",
+  "license": "MIT",
+  "dependencies": {
+    "organiq": "^0.2.2"
+  }
+}
