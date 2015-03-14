@@ -1,0 +1,14 @@
+{
+  "name": "organiq-demo-tessel-mock-app",
+  "version": "0.0.1",
+  "description": "Client app for Mock Tessel app",
+  "main": "mock-app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Myk Willis <myk@mykwillis.com>",
+  "license": "MIT",
+  "dependencies": {
+    "organiq": "^0.2.2"
+  }
+}

@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Myk Willis <myk@organiq.io> (http://www.organiq.io/)",
+  "author": "Myk Willis <myk@mykwillis.com>",
   "license": "MIT",
   "dependencies": {
     "organiq-tessel": "^0.2.2"
