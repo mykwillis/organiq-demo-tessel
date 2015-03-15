@@ -1,7 +1,8 @@
-# Demonstrations of using the Organiq SDK on Tessel
+# Demos using Organiq on Tessel
 
-This project contains several demonstrations of using the Organiq SDK to write
-applications that interact with Tessel microcontrollers over the web.
+This project contains several demonstrations of using the [Organiq SDK]
+(https://github.com/organiq/organiq-sdk-js) to write applications that interact
+with Tessel microcontrollers over the web.
 
 Examples typically have the following directory structure:
 
