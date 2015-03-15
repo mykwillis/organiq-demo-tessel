@@ -1,4 +1,4 @@
-# Demonstration of exposing the Tessel Climate Module via Organiq
+# Tessel Climate Module via Organiq
 
 This example shows how you can expose functionality from a [Tessel Climate
 module](https://tessel.io/docs/climate) attached to your Tessel to client
