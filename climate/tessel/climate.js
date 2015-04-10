@@ -30,18 +30,14 @@ var device = {
     if (!_ready) {
       return -1;
     }
-    return promisedClimate.readTemperature(scale).then(function(temp) {
-      return temp;
-    });
+    return promisedClimate.readTemperature(scale);
   },
 
   _humidity: function() {
     if (!_ready) {
       return -1;
     }
-    return promisedClimate.readHumidity().then(function(humid) {
-      return humid;
-    });
+    return promisedClimate.readHumidity();
   },
 
   // exposed methods
