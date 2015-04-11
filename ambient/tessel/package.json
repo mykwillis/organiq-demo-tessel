@@ -1,0 +1,16 @@
+{
+  "name": "organiq-demo-tessel-ambient",
+  "version": "0.0.1",
+  "description": "Tessel Ambient Module with Organiq",
+  "main": "ambient.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Myk Willis <myk@mykwillis.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ambient-attx4": "^0.2.5",
+    "organiq-tessel": "^0.2.2",
+    "when": "^3.7.2"
+  }
+}
