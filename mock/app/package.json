@@ -9,6 +9,6 @@
   "author": "Myk Willis <myk@mykwillis.com>",
   "license": "MIT",
   "dependencies": {
-    "organiq": "^0.2.2"
+    "organiq": "^0.4.0"
   }
 }

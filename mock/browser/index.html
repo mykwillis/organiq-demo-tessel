@@ -1,7 +1,8 @@
 <script src="organiq.js"></script>
 <script>
     var organiq = require('organiq');
-    organiq = new organiq({ apiRoot: 'ws://localhost:1340' });
+    window.myDebug = require('debug');
+    organiq = new organiq({ apiRoot: 'ws://api.organiq.io' });
 
     organiq.getDevice('MockTesselDevice')
             .then(function(device) {

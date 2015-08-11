@@ -18,3 +18,6 @@ organiq.getDevice('MockTesselDevice')
   });
 
 
+organiq.installDriver('MockTesselDevice', function(req, next) {
+  return next();
+});
